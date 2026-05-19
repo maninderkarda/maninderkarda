@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Maninder Karda</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8ea16b87-dbda-4b65-b31b-6526c4cfde16" /><h1 align="center">Hi 👋, I'm Maninder Karda</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working with **Supple Tek Ind. Pvt. Ltd.**
+- 🔭 With 12 years of experience across diverse industries, I've honed my analytical and data visualization skills.**
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Any Power BI Projects**
+- 👯 I’m looking to collaborate on **any Power BI Projects**
 
 - 💬 Ask me about **Power BI, SQL, Excel, Python or Data Analysis.**
 
 - 📫 How to reach me **maninder.karda@gmail.com**
 
 - ⚡ Fun fact **You can make more money by surrendering your data to me.**
+
+- 🤝 Feel free to reach out for collaborations, discussions, or to share your own data-driven vision. The data-driven future awaits, and it's an exciting journey we can embark on together! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
