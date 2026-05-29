@@ -1,65 +1,107 @@
 <h1 align="center">Hi 👋, I'm Maninder Karda</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 With 12 years of experience across diverse industries, I've honed my analytical and data visualization skills.
-      From Excel to Power BI, my journey has been one of constant growth.**
+<h3 align="center">Senior Data Analyst | Power BI Developer | Turning Data into Business Growth</h3>
 
-- 🌱 I’m currently learning **Agentic AI**
+With 20+ years of professional experience and over a decade in analytics, I help organizations transform raw data into actionable insights that drive revenue growth, operational efficiency, and smarter business decisions.
 
-- 👯 I’m looking to collaborate on **Any Power BI Projects**
+My expertise goes beyond building dashboards—I partner with stakeholders to identify business challenges, uncover hidden opportunities, and deliver analytics solutions that create measurable impact.
 
-- 💬 Ask me about **Power BI, SQL, Excel, Python or Data Analysis.**
+### 🚀 What I Do
 
-- 📫 How to reach me **maninder.karda@gmail.com**
+* Build executive-level Power BI dashboards and reports
+* Transform complex datasets into clear business insights
+* Design scalable data models and DAX solutions
+* Automate reporting processes and reduce manual effort
+* Deliver sales, inventory, financial, and marketing analytics
+* Enable data-driven decision-making across organizations
 
-- ⚡ Fun fact **You can make more money by surrendering your data to me.**
+### 💼 Industry Experience
 
--  🤝 Feel free to reach out for collaborations, discussions, or to share your own data-driven vision.
-       The data-driven future awaits, and it's an exciting journey we can embark on together!
+I've worked across multiple industries including:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maninderkarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maninderkarda" height="30" width="40" /></a>
-</p>
+* Manufacturing
+* Retail & Distribution
+* Consumer Electronics
+* Sales & Marketing
+* Supply Chain & Inventory Management
+* Business Operations
 
-## 🛠️ Skills & Technologies
+### 🌱 Currently Exploring
+
+* Agentic AI
+* AI-Powered Analytics
+* Microsoft Fabric
+* Advanced Data Storytelling
+
+### 🤝 Open To
+
+* Power BI Development Projects
+* Freelance Analytics Consulting
+* Dashboard Optimization
+* Data Analysis & Reporting Automation
+* Remote Data Analyst Opportunities
+
+### 💬 Ask Me About
+
+**Power BI • DAX • SQL • Power Query • Data Modeling • Excel • Python • Data Visualization • Business Intelligence**
+
+### 📫 Contact
+
+**Email:** [maninder.karda@gmail.com](mailto:maninder.karda@gmail.com)
+
+**LinkedIn:** https://linkedin.com/in/maninderkarda
+
+### ⚡ My Approach
+
+> Data doesn't create value. Decisions do.
+>
+> My job is to transform data into stories, insights, and actions that help businesses grow.
+
+---
+
+## 🛠️ Core Skills
 
 ### Business Intelligence
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Dashboard Design
-- KPI Development
-- Data Visualization
 
-### Data Analysis
-- SQL
-- Microsoft Excel
-- Python
-- Pandas
-- NumPy
-- Statistical Analysis
-- Exploratory Data Analysis (EDA)
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Dashboard Design
+* KPI Development
+* Data Storytelling
+* Data Visualization
 
-### Databases
-- SQL Server
-- MySQL
-- PostgreSQL
+### Data Analytics
 
-### Analytics Domains
-- Sales Analytics
-- Inventory Analytics
-- Financial Analytics
-- Marketing Analytics
-- Business Performance Monitoring
+* SQL
+* Python
+* Excel
+* Pandas
+* NumPy
+* Statistical Analysis
+* Exploratory Data Analysis (EDA)
 
-### Tools
-- Power BI Service
-- Power BI Desktop
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+### Business Domains
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maninderkarda&show_icons=true&locale=en&layout=compact" alt="maninderkarda" /></p>
+* Sales Analytics
+* Inventory Analytics
+* Financial Analytics
+* Marketing Analytics
+* Supply Chain Analytics
+* Business Performance Monitoring
+
+### Databases & Tools
+
+* SQL Server
+* MySQL
+* PostgreSQL
+* Git
+* GitHub
+* Power BI Service
+* Jupyter Notebook
+* VS Code
+
+---
+
+⭐ I believe the best dashboards don't just display numbers—they tell stories, reveal opportunities, and drive action.
