@@ -51,6 +51,8 @@ I've worked across multiple industries including:
 
 **LinkedIn:** https://linkedin.com/in/maninderkarda
 
+**Portfolio Website:** https://maninderkarda.github.io
+
 ### ⚡ My Approach
 
 > Data doesn't create value. Decisions do.
