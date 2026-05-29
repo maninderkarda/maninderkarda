@@ -2,7 +2,7 @@
 
 <h3 align="center">Senior Data Analyst | Power BI Developer | Turning Data into Business Growth</h3>
 
-With 20+ years of professional experience and over a decade in analytics, I help organizations transform raw data into actionable insights that drive revenue growth, operational efficiency, and smarter business decisions.
+With 12+ years of professional experience and over a decade in analytics, I help organizations transform raw data into actionable insights that drive revenue growth, operational efficiency, and smarter business decisions.
 
 My expertise goes beyond building dashboards—I partner with stakeholders to identify business challenges, uncover hidden opportunities, and deliver analytics solutions that create measurable impact.
 
